@@ -1,6 +1,6 @@
 package org.study.chapter_1;
 
-public class example_2 {
+public class Example {
     public static void main(String[] args) {
 
         int num;
