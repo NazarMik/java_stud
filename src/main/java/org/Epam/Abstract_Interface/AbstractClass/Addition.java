@@ -1,4 +1,4 @@
-package org.Epam.Abstract_Interface;
+package org.Epam.Abstract_Interface.AbstractClass;
 
 public class Addition extends Operation {
 

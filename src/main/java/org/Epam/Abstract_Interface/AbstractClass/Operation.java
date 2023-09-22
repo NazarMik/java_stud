@@ -1,4 +1,4 @@
-package org.Epam.Abstract_Interface;
+package org.Epam.Abstract_Interface.AbstractClass;
 
 public abstract class Operation {
     public abstract int calculate(int valueA, int valueB);
