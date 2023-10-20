@@ -2,7 +2,6 @@ package org.Epam.Strings;
 
 public class String_1 {
     public static void main(String[] args) {
-        int a = 10;
 
         String s1 = "abc";
         String s2 = new String("abcdddddddd");
