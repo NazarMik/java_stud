@@ -3,7 +3,7 @@ package org.Epam.Strings;
 public class String_1 {
     public static void main(String[] args) {
 
-        System.out.println("dcedcvev");
+        System.out.println("dcedtbgtgcvev");
         String s1 = "abcd";
         String s2 = new String("abcdddddddd");
 
