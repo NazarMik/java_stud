@@ -6,7 +6,7 @@ public class String_1 {
     public static void main(String[] args) {
 
         System.out.println();
-        System.out.println("dveимакпv");
+        System.out.println("dveикпv");
         String s1 = "abcd";
         String s2 = new String("abdпкd");
 
