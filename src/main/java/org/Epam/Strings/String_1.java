@@ -1,11 +1,9 @@
 package org.Epam.Strings;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class String_1 {
     public static void main(String[] args) {
 
-        System.out.println("dvамипv");
+        System.out.println("dvапv");
         String s1 = "abcd";
         String s2 = new String("abdпкd");
 
