@@ -4,7 +4,7 @@ public class String_1 {
     public static void main(String[] args) {
 
         System.out.println("dпv");
-        String s1 = "abcd";
+        String s1 = "abhnhcd";
         String s2 = new String("abdvкd");
 
         System.out.println(s1 == s2.intern());
