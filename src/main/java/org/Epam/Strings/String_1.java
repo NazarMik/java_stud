@@ -5,7 +5,7 @@ public class String_1 {
 
         System.out.println("dv");
         String s1 = "abcd";
-        String s2 = new String("ab пммd");
+        String s2 = new String("ab ммd");
 
         System.out.println(s1 == s2.intern());
         System.out.println(s1.equals(s2));
